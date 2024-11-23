@@ -2,6 +2,7 @@
 .stack 100h
 .data 
    ms db " ********** Quiz game By Pallob Barmon********** : $" 
+   ms1 db "---------------Eastern University"------------- : $"
    msg db "Answer The Following Question, Until three mistake: $"  
    msg1 db "1. The microprocessor of a computer can operate on any information if it is present in ______ only : $"
    qsn1 db "a. Program Counter            b. Flag      c. Main Memory: $"
